@@ -43,4 +43,10 @@ header
     border: 1px solid white;
 }
 
-
+.avatar
+{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
