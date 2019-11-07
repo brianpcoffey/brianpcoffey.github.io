@@ -1,3 +1,3 @@
 # brianpcoffey.github.io
-Personal Website
-Working on my html and css skills and advancing my professional development.
+# Personal Website
+# A project dedicated to learning html and css, as well as advancing my professional development.
