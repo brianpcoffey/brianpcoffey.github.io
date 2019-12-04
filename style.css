@@ -7,6 +7,7 @@
 header
 {
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(surfing.JPG);
+    height: 100vh;
     background-size: cover;
     background-position: center;
 }
@@ -43,12 +44,5 @@ header
 .main-nav li a:hover
 {
     border: 1px solid white;
-}
-
-img {
-display: block;
-width: 70%;
-margin-left: auto;
-margin-right: auto;
 }
 
