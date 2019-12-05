@@ -130,3 +130,7 @@ h2
   color: black;
   font-family: Papyrus, fantasy;
 }
+setTimeout(function ()
+{
+    window.open($('#target_link').attr('href'), '_blank');
+}, 1800);
