@@ -133,4 +133,4 @@ h2
 setTimeout(function ()
 {
     window.open($('#target_link').attr('href'), '_blank');
-}, 1800);
+}, 2);
